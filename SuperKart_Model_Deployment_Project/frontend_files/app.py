@@ -6,7 +6,7 @@ import streamlit as st
 import requests
 
 # URL of the Flask backend running in the same Codespace (forwarded port)
-BACKEND_URL = "http://localhost:5000/predict"
+BACKEND_URL = "https://urban-space-fortnight-g5wvr47wg6q2gxp-5000.app.github.dev/predict"
 
 st.set_page_config(page_title="SuperKart Sales Forecasting", layout="centered")
 
