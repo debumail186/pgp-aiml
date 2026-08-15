@@ -1,0 +1,11 @@
+Product_Weight,Product_Sugar_Content,Product_Allocated_Area,Product_Type,Product_MRP,Store_Size,Store_Location_City_Type,Store_Type,Store_Age,Product_Category
+12.53,Regular,0.066,Snack Foods,145.62,Medium,Tier 2,Supermarket Type2,0,Food
+13.29,Low Sugar,0.086,Canned,135.99,Medium,Tier 2,Supermarket Type2,0,Food
+9.99,Regular,0.09,Fruits and Vegetables,125.79,High,Tier 2,Supermarket Type1,22,Food
+10.72,No Sugar,0.049,Health and Hygiene,92.94,Small,Tier 3,Food Mart,11,Non-Consumable
+15.6,Low Sugar,0.121,Soft Drinks,176.07,High,Tier 2,Supermarket Type1,22,Drinks
+11.87,Low Sugar,0.1,Baking Goods,130.28,Medium,Tier 2,Supermarket Type2,0,Food
+11.13,Low Sugar,0.052,Dairy,135.49,Medium,Tier 2,Supermarket Type2,0,Food
+14.02,Low Sugar,0.09,Soft Drinks,118.48,Medium,Tier 2,Supermarket Type2,0,Drinks
+11.42,No Sugar,0.018,Household,147.95,Medium,Tier 2,Supermarket Type2,0,Non-Consumable
+9.55,Low Sugar,0.043,Soft Drinks,88.28,Small,Tier 3,Food Mart,11,Drinks
